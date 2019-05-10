@@ -51,3 +51,6 @@ table
 table.query('Manager == ["Debra Henley"]')
 
 table.query('Status == ["pending","won"]')
+
+
+https://pbpython.com/images/pivot-table-datasheet.png
